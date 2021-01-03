@@ -19,6 +19,6 @@ Sólida experiência em Sistema de Gestão Integrado de QSMS, com mais de 7 anos
 
 ## Projetos:
 
-* **Maio Amarelo: Análise dos acidentes em rodovias federais com Data Science**:
+* **Maio Amarelo: Análise dos acidentes em rodovias federais com Data Science (Em elaboração):** https://bit.ly/2KOwKhm
 ---
 
