@@ -4,7 +4,7 @@
 </p>
 
 # Fabiano Silva
-<sub>*Junior Data Analyst</sub>
+<sub>*Junior Data Analyst*</sub>
 
 
 
