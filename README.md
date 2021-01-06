@@ -18,6 +18,6 @@ Sólida experiência em Sistema de Gestão Integrado de QSMS, com mais de 7 anos
 
 * **Maio Amarelo: Análise dos acidentes em rodovias federais com Data Science (Em elaboração):** https://bit.ly/2KOwKhm
 * **Tratamento de dados: Utilizando o senso de certificação ISO pelo mundo para demonstrar um processo de tratamento de dados** https://bit.ly/2LicILT
-* **Dashboard das certificações das normas ISO 9001, 14001 e 45001 no mundo** encurtador.com.br/cET57
+* **Dashboard das certificações das normas ISO 9001, 14001 e 45001 no mundo** https://cutt.ly/7jgWxI4
 ---
 
