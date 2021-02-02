@@ -16,7 +16,7 @@ Sólida experiência em Sistema de Gestão Integrado de QSMS, com mais de 7 anos
 
 ## Projetos:
 
-* **Maio Amarelo: Análise dos acidentes em rodovias federais com Data Science (Em elaboração):** https://bit.ly/2KOwKhm
+* **Maio Amarelo: Análise dos acidentes em rodovias federais com Data Science (Em elaboração):** https://bit.ly/2YGwPqB
 * **Tratamento de dados: Utilizando o senso de certificação ISO pelo mundo para demonstrar um processo de tratamento de dados** https://bit.ly/2LicILT
 * **Dashboard das certificações das normas ISO 9001, 14001 e 45001 no mundo** https://cutt.ly/IjgWWEg
 ---
