@@ -7,8 +7,6 @@ Mergulhando no mundo da ciência de dados através da utilização da linguagem 
 
 Experiência em desenvolvimento e acompanhamento de KPIs, relatórios e dashboards gerenciais principalmente utilizando Power BI.
 
-Sólida experiência em Sistema de Gestão Integrado de QSMS, com mais de 7 anos de vivência no mercado de trabalho.
-
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/fabiano-soares-da-silva-b312233a/)
 
